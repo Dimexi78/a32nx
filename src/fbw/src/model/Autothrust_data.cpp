@@ -108,6 +108,8 @@ Parameters_Autothrust_T AutothrustModelClass::Autothrust_P = {
 
   0.0,
 
+  0.0,
+
   -20.0,
 
   0.0,
@@ -174,11 +176,9 @@ Parameters_Autothrust_T AutothrustModelClass::Autothrust_P = {
 
   0.0,
 
-  0.06,
+  3.0,
 
-  -0.06,
-
-  0.0,
+  -1.0,
 
   5.0,
 
